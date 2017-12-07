@@ -10,3 +10,11 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
 ### R1D2
 Weather app
 - Calculate apparent temperature 
+
+### R1D3
+Weather app
+- Extracted string resources
+- minSdkVersion = 21
+- Added progress bar
+- Round apparent temperature
+- White text 
